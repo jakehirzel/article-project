@@ -44,5 +44,11 @@ h4, h5, h6, .h4, .h5, .h6 {
 }
 
 p {
-  margin: 0 0 .75rem 0;
+  margin-top: .75rem;
+  margin-bottom: .75rem;
+}
+
+.articles {
+  margin-top: -.75rem;
+  margin-bottom: -.75rem;
 }
