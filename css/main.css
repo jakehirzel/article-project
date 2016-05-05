@@ -48,6 +48,14 @@ p {
   margin-bottom: .75rem;
 }
 
+/* Make drop shadow */
+.one-edge-shadow {
+  -webkit-box-shadow: 0 16px 24px -16px black;
+     -moz-box-shadow: 0 16px 24px -16px black;
+          box-shadow: 0 16px 24px -16px black;
+}
+
+/* Create container for articles */
 .articles {
   margin-top: -.75rem;
   margin-bottom: -.75rem;
