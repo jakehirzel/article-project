@@ -10,6 +10,12 @@ body {
     font-size: 1rem;
     font-weight: 200;
 }
+
+.container {
+    margin-top: -.75rem;
+    margin-bottom: -.75rem;
+}
+
 a:link, a:visited, a:hover, a:active {
     text-decoration: none;
     font-weight: 400;
@@ -46,13 +52,6 @@ h4, h5, h6, .h4, .h5, .h6 {
 p {
   margin-top: .75rem;
   margin-bottom: .75rem;
-}
-
-/* Make drop shadow */
-.one-edge-shadow {
-  -webkit-box-shadow: 0 16px 24px -16px black;
-     -moz-box-shadow: 0 16px 24px -16px black;
-          box-shadow: 0 16px 24px -16px black;
 }
 
 /* Create container for articles */
