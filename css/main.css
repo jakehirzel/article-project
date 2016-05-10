@@ -8,7 +8,7 @@ body {
     padding-bottom: 20px;
     line-height: 1.5rem;
     font-size: 1rem;
-    font-weight: 200;
+    font-weight: 100;
 }
 
 .container {
@@ -24,6 +24,7 @@ a:link, a:visited, a:hover, a:active {
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-top: .75rem;
     margin-bottom: .75rem;
+    font-family: 'Germania One', 'Helvetica', sans-serif;
     font-weight: 400;
 }
 
